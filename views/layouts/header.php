@@ -1,12 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en">
     <head>
-        <title> <?php echo @$data['page_title'] ?: 'MTC - Index'; ?></title>
+        <title> <?php echo @$data['page_title'] ?: 'Resq - Home'; ?></title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="author" content="ThemeZaa">
+        <meta name="author" content="RESQ">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <meta name="description" content="e">
+        <meta name="description" content="Resq - Your trusted on-demand towing and roadside assistance app.">
         <!-- favicon icon -->
         <link rel="shortcut icon" href="<?php echo base_url(); ?>/assets/img/logo/logo.svg">
         <link rel="apple-touch-icon" href="<?php echo base_url(); ?>/assets/img/logo/logo.svg">
@@ -16,7 +16,6 @@
         <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/vendors.min.css">
         <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/icon.min.css">
         <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/style.min.css">
-        <!-- <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/cryptocurrency.min.css"> -->
         <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/responsive.min.css">
         
     </head>

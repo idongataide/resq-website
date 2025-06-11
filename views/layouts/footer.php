@@ -2,9 +2,9 @@
 
        <div class="container">
            <div class="col-md-9 mx-auto">
-                <div class="row g-0 justify-content-center align-items-center bg-base-footer border-radius-20px ps-7 pe-7  mb-7">
+                <div class="row g-0 justify-content-center align-items-center bg-base-footer border-radius-20px sm-border-radius-0px ps-7 pe-7  mb-7">
                     <div class="col-lg-4 col-md-9 text-center text-lg-start  ">
-                        <h4 class="text-white fw-600 mb-10 ls-minus-1px ">Never get stranded RESQ is on the way</h4>
+                        <h4 class="text-white fw-600 mb-10 ls-minus-1px mt-13 ">Never get stranded RESQ is on the way</h4>
                         <a href="#"   class="btn btn-medium btn-white border-radius-10px d-inline-block me-30px xs-me-10px btn-box-shadow btn-switch-text sm-mt-6px sm-mb-10px section-link">
                             <span>
                                 <span class="btn-double-text" data-text="Contact us">Download app</span>
@@ -13,11 +13,11 @@
                     </div>
                     <div class="col-auto col-lg-5 overflow-visible d-flex justify-content-center align-items-center icon-with-text-style-08 offset-lg-3">
                         <div class="feature-box feature-box-left-icon-middle ">
-                            <div class="position-absolute left-minus-80px">
+                            <div class="position-absolute left-minus-80px sm-left-minus-0px">
                                 <img src="<?php echo base_url(); ?>/assets/img/scan.svg" alt="">
                             </div>
-                            <div class="feature-box-content last-paragraph-no-margin">
-                                  <img src="<?php echo base_url(); ?>/assets/img/towapp.png" class="w-100" alt="">
+                            <div class="feature-box-content last-paragraph-no-margin d-flex justify-content-end">
+                                  <img src="<?php echo base_url(); ?>/assets/img/towapp.png" class="w-100 sm-w-80" alt="">
                             </div>
                         </div>
                     </div>

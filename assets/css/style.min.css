@@ -373,7 +373,7 @@ h1 {
 .h2,
 h2 {
   font-size: 3.438rem;
-  line-height: 3.438rem;
+  line-height: 3.1rem;
 }
 .fs-45,
 .h3,
@@ -906,7 +906,7 @@ strong {
   letter-spacing: -4px !important;
 }
 .ls-minus-4x {
-  letter-spacing: -4% !important;
+  letter-spacing: -0.1px !important;
 }
 .ls-minus-5px {
   letter-spacing: -5px !important;
@@ -4140,6 +4140,8 @@ header .left-nav .navbar-nav:before {
 .border-radius-top-left {
   border-radius: 10px 0 0 10px !important;
 }
+
+
 .parallax {
   position: relative !important;
   overflow: hidden;

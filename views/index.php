@@ -35,8 +35,8 @@
     <div class="container">
         <div class="row align-items-center align-items-xl-end justify-content-center mb-70px sm-mb-35px">                    
             <div class="col-lg-8 col-md-10 md-mb-20px text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <span class="fs-20 lh-22 fw-300 mb-15px d-inline-block text-gray">What We Offer</span>
-                <p class="text-white lh-40 fs-36 fw-700 mb-0">Professional-grade towing and recovery services — fast, safe, and reliable </p>
+                <span class="fs-20 lh-22 fw-700 mb-15px d-inline-block text-gray">What We Offer</span>
+                <h2 class="text-gray-3 fw-700 mb-0 fs-36 ls-minus-4x ">Professional-grade towing and recovery services — fast, safe, and reliable </h2>
             </div>         
         </div>      
         <div class="col-lg-12 mx-auto text-center text-lg-start" >
@@ -109,9 +109,9 @@
 <section id="reviews" class="bg-dark- borde-top bg-test" >
     <div class="container">
         <div class="row text-center mb-3">
-            <div class="col-lg-3 col-md-10 md-mb-20px mx-auto text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <span class="fs-20 lh-22 fw-300 mb-15px d-inline-block text-gray">Our Testimonials</span>
-                <h2 class="text-white fs-36 fw-700 mb-0 ls-minus-1px">People who trust us to rescue</h2>
+            <div class="col-lg-4 col-md-10 md-mb-20px mx-auto text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <span class="fs-20 lh-22 fw-700 mb-15px d-inline-block text-gray">Our Testimonials</span>
+                <h2 class="text-gray-3 fw-700 mb-0 fs-36 ls-minus-4x">People who trust us to rescue</h2>
             </div>  
         </div>
         <div class="row align-items-center mb-40px md-mb-25px">
@@ -126,7 +126,7 @@
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t1.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
                                         <div class="text-gray-3 lh-1 fw-500 fs-12">Kelechi. M</div>
-                                        <div class="lh-20 text-gray-2">Ikeja, Lagos</div>
+                                        <div class="lh-20 text-gray-2 fs-12">Ikeja, Lagos</div>
                                     </div>
                                 </div>
                             </div>
@@ -140,7 +140,7 @@
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t2.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
                                         <div class="text-gray-3 lh-1 fw-500 fs-12">Timon. A</div>
-                                        <div class="lh-20 text-gray-2">Surulere, Lagos</div>
+                                        <div class="lh-20 text-gray-2 fs-12">Surulere, Lagos</div>
                                     </div>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t3.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
                                         <div class="text-gray-3 lh-1 fw-500 fs-12">Banke. S</div>
-                                        <div class="lh-20 text-gray-2">Lekki, Lagos</div>
+                                        <div class="lh-20 text-gray-2 fs-12">Lekki, Lagos</div>
                                     </div>
                                 </div>
                             </div>
@@ -167,7 +167,7 @@
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t3.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
                                         <div class="text-gray-3 lh-1 fw-500 fs-12">Banke. S</div>
-                                        <div class="lh-20 text-gray-2">Lekki, Lagos</div>
+                                        <div class="lh-20 text-gray-2 fs-12">Lekki, Lagos</div>
                                     </div>
                                 </div>
                             </div>
@@ -192,8 +192,8 @@
 <section class="bg-dark">
     <div class="container">
         <div class="row align-items-center align-items-xl-end justify-content-center mb-70px sm-mb-35px">                    
-            <div class="col-lg-6 col-md-10 md-mb-20px text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <h5 class="text-gray-3 fw-700 mb-0 fs-36 ">Get to know more about RESQ</h5>
+            <div class="col-lg-4 col-md-10 col-xs-7  md-mb-20px text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <h2 class="text-gray-3 fw-700 mb-0 fs-36 ls-minus-4x ">Get to know more about RESQ</h2>
 
             </div>         
         </div>      
