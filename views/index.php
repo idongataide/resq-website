@@ -41,7 +41,7 @@
         </div>      
         <div class="col-lg-12 mx-auto text-center text-lg-start" >
             <div class="row" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 2000, "delay": 0, "staggervalue": 400, "easing": "easeOutQuad" }'>
-                <div class="col-lg-6 mb-2 position-relative">                   
+                <div class="col-lg-6 sm-mb-10 mb-2 position-relative">                   
                     <div class="bg-gray-2 p-10 d-flex align-items-center justify-content-center  overflow-hidden position-relative">
                         <div class="position-absolute leftB-abs">
                                 <img src="assets/img/rays3.svg" class="w-85" alt="">
@@ -54,7 +54,7 @@
                     </div>  
   
                 </div>   
-                <div class="col-lg-6 mb-2">
+                <div class="col-lg-6 sm-mb-10 mb-2">
                   <div class="bg-gray-2 d-flex align-items-center justify-content-center p-10 overflow-hidden position-relative">
                         <div class="col-md-6">
 
@@ -68,7 +68,7 @@
                         </div>
                     </div>   
                 </div>   
-                <div class="col-lg-4 mb-2">
+                <div class="col-lg-4 sm-mb-10 mb-2">
                   <div class="bg-gray-2 p-10 d-flex justify-between column overflow-hidden position-relative">
                         <div class="d-flex justify-end">
                              <img src="assets/img/icon1.svg" alt="">
@@ -82,7 +82,7 @@
                         </div>
                     </div>   
                 </div>   
-                <div class="col-lg-4 mb-2">
+                <div class="col-lg-4 sm-mb-10 mb-2">
                   <div class="bg-gray-2 p-10 d-flex justify-between column">
                         <div class="d-flex justify-end">
                              <img src="assets/img/icon2.svg" class="w-80" alt="">
@@ -93,7 +93,7 @@
                         </div>
                     </div>   
                 </div>   
-                <div class="col-lg-4 mb-2">
+                <div class="col-lg-4 sm-mb-10 mb-2">
                   <div class="bg-gray-2">
                         <div class="">
                              <img src="assets/img/phone.svg" alt="">
