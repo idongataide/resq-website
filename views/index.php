@@ -1,6 +1,6 @@
 ﻿<section id="home" class="bg-dark cover-background pb-0">    
     <div class="container position-relative">
-        <div class="row pt-12 mb-14 xxl-pt-7 xl-pt-6 xxl-mb-7 sm-pt-30 xs-mb-35px">
+        <div class="row pt-12 mb-14 xxl-pt-7 xl-pt-6 xxl-mb-7 sm-pt-25 xs-mb-35px">
             <div class="col text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <div class="fs-65 lg-fs-704 md-fs-50 fw-700 mb-10px text-gradient">The Tow Service <br/> You Can Trust </div>
                 <p class="fs-16 fw-400 w-38 lg-w-70 md-w-80 mx-auto mb-0 text-gray">From light  to heavy tows — help is now just a tap away</p>
@@ -21,7 +21,7 @@
                 <div class="atropos-scale">
                     <div class="atropos-rotate">
                         <div class="atropos-inner text-center">                            
-                            <img data-atropos-offset="5" class="position-relative z-index-9 w-50 sm-w-100" src="assets/img/hand-phone.svg" alt="">
+                            <img data-atropos-offset="5" class="position-relative z-index-9 w-50 sm-w-100 sm-pt-10" src="assets/img/hand-phone.svg" alt="">
                         </div> 
                     </div>
                 </div>   

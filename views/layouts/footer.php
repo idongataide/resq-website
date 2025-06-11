@@ -14,7 +14,7 @@
                     <div class="col-auto col-lg-5 overflow-visible d-flex justify-content-center align-items-center icon-with-text-style-08 offset-lg-3">
                         <div class="feature-box feature-box-left-icon-middle ">
                             <div class="position-absolute left-minus-80px sm-left-minus-0px">
-                                <img src="<?php echo base_url(); ?>/assets/img/scan.svg" alt="">
+                                <img class="sm-w-80" src="<?php echo base_url(); ?>/assets/img/scan.svg" alt="">
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin d-flex justify-content-end">
                                   <img src="<?php echo base_url(); ?>/assets/img/towapp.png" class="w-100 sm-w-80" alt="">
