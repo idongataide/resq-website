@@ -21,7 +21,7 @@
                 <div class="atropos-scale">
                     <div class="atropos-rotate">
                         <div class="atropos-inner text-center">                            
-                            <img data-atropos-offset="5" class="position-relative z-index-9 w-50" src="assets/img/hand-phone.svg" alt="">
+                            <img data-atropos-offset="5" class="position-relative z-index-9 w-50 sm-w-100" src="assets/img/hand-phone.svg" alt="">
                         </div> 
                     </div>
                 </div>   
