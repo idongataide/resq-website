@@ -19619,7 +19619,14 @@ background-image: linear-gradient(to right, #009090, #008080, #44a181, #008080, 
   border-radius: 50%;
   right: 30%;
   left: unset !important;
-  /* bottom: 20%; */
+}
+.location.pos-3 {
+  width: 0.8rem;
+  height: 0.8rem;
+  background: var(--base-color);
+  border-radius: 50%;
+  top: 30%;
+  left: 50% !important;
 }
 .location.ripple::after,
 .location.ripple::before {

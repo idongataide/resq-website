@@ -41,16 +41,18 @@
         </div>      
         <div class="col-lg-12 mx-auto text-center text-lg-start" >
             <div class="row" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 2000, "delay": 0, "staggervalue": 400, "easing": "easeOutQuad" }'>
-                <div class="col-lg-6 mb-2">                   
+                <div class="col-lg-6 mb-2 position-relative">                   
                     <div class="bg-gray-2 p-10 d-flex align-items-center justify-content-center  overflow-hidden position-relative">
                         <div class="position-absolute leftB-abs">
                                 <img src="assets/img/rays3.svg" class="w-85" alt="">
+                                <div class="location ripple pos-3 position-absolute" style="z-index: 1;"></div>
                         </div>
                         <div class="offset-lg-3 ">
                             <h3 class="fw-500 fs-24 text-gray-3 mb-2">Real-Time <br/> Vehicle Tracking</h3>
                             <p class="text-gray mb-0">Follow your rescue vehicle as it </br> approaches, down to the minute.</p>
                         </div>
-                    </div>    
+                    </div>  
+  
                 </div>   
                 <div class="col-lg-6 mb-2">
                   <div class="bg-gray-2 d-flex align-items-center justify-content-center p-10 overflow-hidden position-relative">
