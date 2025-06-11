@@ -205,7 +205,7 @@
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
             <div class="col-lg-3 text-lg-start md-mb-20px">
-                <span class="text-off fw-400 fs-16 ">11. Contact Us</span>
+                <span class="text-off fw-400 fs-16 ">11. Contact Us </span>
             </div>
             <div class="col-lg-7">
                 <p class="text-off  fs-16">For questions, concerns, or to exercise your data rights, please contact us:</p>
