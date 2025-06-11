@@ -8,9 +8,9 @@
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <meta name="description" content="Resq - Your trusted on-demand towing and roadside assistance app.">
         <!-- favicon icon -->
-        <link rel="shortcut icon" href="<?php echo base_url(); ?>/assets/img/logo/logo.svg">
-        <link rel="apple-touch-icon" href="<?php echo base_url(); ?>/assets/img/logo/logo.svg">
-        <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url(); ?>/assets/img/logo/logo.svg">
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>/assets/img/logo/fav.svg">
+        <link rel="apple-touch-icon" href="<?php echo base_url(); ?>/assets/img/logo/fav.svg">
+        <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url(); ?>/assets/img/logo/fav.svg">
         
         <!-- style sheets and font icons  -->
         <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/vendors.min.css">
@@ -58,9 +58,9 @@
                         <div class="col-auto col-lg-3 text-end xs-pe-0"> 
                             <div class="header-icon">  
                                 <div class="header-button">
-                                    <a href="#" target="_blank" data-bs-toggle="modal" data-bs-target="#modal-signin" class="btn btn-small btn-primary btn-rounded btn-box-shadow btn-switch-text">
+                                    <a href="#" target="_blank" class="btn btn-small btn-primary btn-rounded btn-box-shadow btn-switch-text">
                                         <span>
-                                            <span class="btn-double-text" data-text="Contact us">Contact us</span>
+                                            <span class="btn-double-text" data-text="Download app">Download app</span>
                                         </span> 
                                     </a> 
                                 </div>
