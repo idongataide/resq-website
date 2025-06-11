@@ -7640,7 +7640,7 @@ header.sticky .navbar.disable-fixed {
   text-transform: uppercase;
 }
 .navbar .navbar-nav .dropdown .dropdown-menu a:hover {
-  color: var(--dark-gray);
+  color: #cecece;
 }
 .navbar .navbar-nav .dropdown .dropdown-menu a i {
   width: 25px;
