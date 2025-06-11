@@ -85,7 +85,7 @@
                         </div>
                         <div id="accordion-style-02-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                <p class="text-gray-3">Open the Resq app, confirm your location and provide details about your request</p>
+                                  <p class="text-gray-3">Open the Resq app, choose the towing service you need, and confirm your location. We'll connect you with the nearest available tow operator, and you can track their arrival.</p>
                             </div>
                         </div>
                     </div>
@@ -204,10 +204,10 @@
                 </div>
         </div> 
       </div>
-      <div class="row mt-2">
+      <!-- <div class="row mt-2">
             <div class="col-12 text-center" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="fs-16 text-white">Need to learn more? <span class="text-primary">Click here</span></div>
             </div>
         </div>     
-    </div>
+      </div> -->
 </section>
