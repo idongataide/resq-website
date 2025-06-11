@@ -4,7 +4,7 @@
             <div class="col-lg-8 col-md-8 position-relative text-center page-title-extra-large" data-anime='{ "el": "childs", "opacity": [0, 1], "rotateY": [-90, 0], "rotateZ": [-10, 0], "translateY": [80, 0], "translateZ": [50, 0], "staggervalue": 200, "duration": 900, "easing": "easeOutCirc" }'>
                 <h1 class=" text-off fw-700 ls-minus-2px mt-2">Frequently asked Questions</h1>
                 <p class="fw-400 fs-16 text-off-white">
-                     At Resq, your privacy is our priority. This Privacy Policy outlines how we collect, use, store, and protect your personal information when you use our towing and roadside assistance application (“Resq App” or “Platform”). By accessing or using Resq, you agree to the terms of this Privacy Policy.
+                      Welcome to the Resq Frequently Asked Questions page. Here, you’ll find clear and concise answers to the most common questions about booking a tow, tracking your request, making payments, and using the app.
                 </p>
             </div>
         </div>
