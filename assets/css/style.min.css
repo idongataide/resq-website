@@ -897,7 +897,7 @@ strong {
   letter-spacing: -1px !important;
 }
 .ls-minus-2px {
-  letter-spacing: -2px !important;
+  letter-spacing: -1px !important;
 }
 .ls-minus-3px {
   letter-spacing: -3px !important;
@@ -4623,7 +4623,7 @@ header .left-nav .navbar-nav:before {
   height: auto !important;
 }
 .extra-very-small-screen {
-  height: 250px !important;
+  min-height: 250px !important;
 }
 .extra-small-screen {
   height: 300px !important;
@@ -19603,3 +19603,88 @@ background-image: linear-gradient(to right, #009090, #008080, #44a181, #008080, 
     linear-gradient(rgba(16, 16, 21, 0.5), rgba(16, 16, 21, 0.5)),
     url('../img/bg-map.png') center/cover no-repeat;
 }
+
+.location {
+  width: 0.8rem;
+  height: 0.8rem;
+  background: var(--base-color);
+  border-radius: 50%;
+  left: 30%;
+  /* bottom: 1px; */
+}
+.location.pos-2 {
+  width: 0.8rem;
+  height: 0.8rem;
+  background: var(--base-color);
+  border-radius: 50%;
+  right: 30%;
+  left: unset !important;
+  /* bottom: 20%; */
+}
+.location.ripple::after,
+.location.ripple::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: var(--base-color);
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  opacity: 0.8;
+  animation: ripple-1 2s infinite ease-in-out;
+  z-index: -1;
+}
+.location.ripple::after {
+  opacity: 0.6;
+  animation: ripple-2 2s infinite ease-in-out;
+  animation-delay: 0.5s;
+}
+
+
+.location.ripple::after,
+.location.ripple::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background: var(--base-color);
+  opacity: 0.8;
+  animation: ripple-1 2s infinite ease-in-out;
+  z-index: -1;
+}
+.location.ripple::after {
+  opacity: 0.6;
+  animation: ripple-2 2s infinite ease-in-out;
+  animation-delay: 0.5s;
+}
+
+
+
+@keyframes ripple-1 {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(5);
+    opacity: 0;
+  }
+}
+@keyframes ripple-2 {
+  0% {
+    transform: scale(2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(7);
+    opacity: 0;
+  }
+}
+
+

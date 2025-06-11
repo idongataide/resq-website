@@ -106,7 +106,7 @@
 
 
 
-<section id="reviews" class="bg-dark- borde-top bg-test" >
+<section id="reviews" class="bg-dark- borde-top bg-test position relative" >
     <div class="container">
         <div class="row text-center mb-3">
             <div class="col-lg-4 col-md-10 md-mb-20px mx-auto text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -180,12 +180,15 @@
                 </div> 
             </div>  
         </div>
-        <div class="row">
+        <div class="row mb-10">
             <div class="col-12 text-center" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="fs-16 text-white">Had an awesome experience? <span class="text-primary">Share with us</span></div>
             </div>
         </div>
-        
+        <div class="location ripple position-absolute"></div>
+        <div class="location ripple pos-2 position-absolute"></div>
+  
+  <!-- <div class="ripple-circle circle-2"></div> -->
     </div>
 </section>
 

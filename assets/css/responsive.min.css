@@ -20033,7 +20033,7 @@
   .navbar-full-screen-menu-inner .navbar-nav .nav-link,
   .navbar-modern-inner .navbar-nav .nav-link {
     padding: 10px 15px !important;
-    color: var(--dark-gray);
+    color: #E5E9F0;
   }
   .navbar .navbar-nav .nav-link .label,
   .navbar-full-screen-menu-inner .navbar-nav .nav-link .label,
@@ -21187,8 +21187,12 @@
   .page-title-extra-large h1,
   .page-title-extra-small h2,
   .page-title-large h1 {
-    font-size: 36px;
+    font-size: 34px;
     line-height: 44px;
+  }
+
+  .page-title-big-typography h1{
+    margin-top: 100px !important;
   }
   .grid.sm-grid-6col li {
     width: 16.67%;
