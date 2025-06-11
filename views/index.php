@@ -118,7 +118,7 @@
         </div>
         <div class="row align-items-center mb-40px md-mb-25px">
             <div class="col-12 position-relative" data-anime='{ "translateX": [100, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-            <div class="swiper slider-three-slide magic-cursor drag-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 35, "loop": true, "autoplay": { "delay": 4000, "disableOnInteraction": false }, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true, "dynamicBullets": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 2.4 }, "992": { "slidesPerView": 2 }, "768": { "slidesPerView": 3 }, "320": { "slidesPerView": 1 } }, "effect": "slide" }'>
+            <div class="swiper slider-three-slide magic-cursor drag-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 35, "loop": true, "autoplay": { "delay": 4000, "disableOnInteraction": false }, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true, "dynamicBullets": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 2.4 }, "992": { "slidesPerView": 2 }, "768": { "slidesPerView": 1.3 }, "320": { "slidesPerView": 1 } }, "effect": "slide" }'>
                     <div class="swiper-wrapper">
                         <!-- start review item -->
                         <div class="swiper-slide review-style-04"> 

@@ -20049,18 +20049,18 @@
   .navbar .navbar-nav .nav-item.active .nav-link,
   .navbar-full-screen-menu-inner .navbar-nav .nav-item.active .nav-link,
   .navbar-modern-inner .navbar-nav .nav-item.active .nav-link {
-    color: var(--dark-gray);
+    color: var(--base-color);
     opacity: 0.6;
   }
   .navbar .navbar-nav .nav-item.active .dropdown-toggle,
   .navbar-full-screen-menu-inner .navbar-nav .nav-item.active .dropdown-toggle,
   .navbar-modern-inner .navbar-nav .nav-item.active .dropdown-toggle {
-    color: var(--dark-gray);
+    color: var(--base-color);
   }
   .navbar .navbar-nav .nav-item.active:hover .nav-link,
   .navbar-full-screen-menu-inner .navbar-nav .nav-item.active:hover .nav-link,
   .navbar-modern-inner .navbar-nav .nav-item.active:hover .nav-link {
-    color: var(--dark-gray);
+    color: var(--base-color);
     opacity: 0.6;
   }
   .navbar .navbar-nav .nav-item .dropdown-toggle,
