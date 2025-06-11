@@ -73,7 +73,7 @@
                         </div>
                         <div class="">
                             <h3 class="fw-500 fs-24 text-gray-3 mb-1">Available 24/7</h3>
-                            <p class="text-gray fs-16 f-400 mb-0">Day or night, weekend or weekday, <br/> we’re ready to respond.</p>
+                            <p class="text-gray fs-16 f-400 mb-0">Day or night, weekend or weekday, <br/> we're ready to respond.</p>
                         </div>
                         <div class="position-absolute left-abs">
                              <img src="assets/img/rays2.svg" alt="">
@@ -87,7 +87,7 @@
                         </div>
                         <div class="">
                             <h3 class="fw-500 fs-24 text-gray-3 mb-1">Upfront Pricing</h3>
-                            <p class="text-gray fs-16 f-400 mb-0">Know what you’ll pay before you <br/> confirm — no hidden charges.</p>
+                            <p class="text-gray fs-16 f-400 mb-0">Know what you'll pay before you <br/> confirm — no hidden charges.</p>
                         </div>
                     </div>   
                 </div>   
@@ -121,11 +121,11 @@
                         <!-- start review item -->
                         <div class="swiper-slide review-style-04"> 
                             <div class="d-flex justify-content-center h-100 flex-column border-line border-radius-10px p-5 xl-p-10 box-shadow-extra-large">
-                                <p class="mb-20px fs-14 text-gray-3">"My car overheated in the middle of traffic along Western Avenue. I was blocking the road and getting anxious. I used RESQ for the first time, and in no time, help was on the way. They towed my car to the nearest mechanic workshop. Totally worth it!"</p>
+                                <p class="mb-20px fs-14 text-gray-3 ls-minus-4x lh-20 ">"My car overheated in the middle of traffic along Western Avenue. I was blocking the road and getting anxious. I used RESQ for the first time, and in no time, help was on the way. They towed my car to the nearest mechanic workshop. Totally worth it!"</p>
                                 <div class="mt-5px d-flex align-items-center">
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t1.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
-                                        <div class="text-white fw-500 fs-18">Kelechi. M</div>
+                                        <div class="text-gray-3 lh-1 fw-500 fs-12">Kelechi. M</div>
                                         <div class="lh-20 text-gray-2">Ikeja, Lagos</div>
                                     </div>
                                 </div>
@@ -135,11 +135,11 @@
                         <!-- start review item -->
                         <div class="swiper-slide review-style-04 border-line"> 
                             <div class="d-flex justify-content-center h-100 flex-column border-line border-radius-10px p-5 xl-p-10 box-shadow-extra-large">
-                                <p class="mb-20px fs-14 text-gray-3">"My car broke down on the Lekki-Epe Expressway around 10 PM. I was completely stranded. A friend mentioned RESQ, and I tried it out. Within 25 minutes, a towing van arrived. The driver was professional, and the whole process felt safe and efficient. RESQ saved my night!"</p>
+                                <p class="mb-20px fs-14 text-gray-3 ls-minus-4x lh-20 ">"My car broke down on the Lekki-Epe Expressway around 10 PM. I was completely stranded. A friend mentioned RESQ, and I tried it out. Within 25 minutes, a towing van arrived. The driver was professional, and the whole process felt safe and efficient. RESQ saved my night!"</p>
                                 <div class="mt-5px d-flex align-items-center">
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t2.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
-                                        <div class="text-white fw-500 fs-18">Timon. A</div>
+                                        <div class="text-gray-3 lh-1 fw-500 fs-12">Timon. A</div>
                                         <div class="lh-20 text-gray-2">Surulere, Lagos</div>
                                     </div>
                                 </div>
@@ -149,11 +149,11 @@
                         <!-- start review item -->
                         <div class="swiper-slide review-style-04 border-line"> 
                             <div class="d-flex justify-content-center h-100 flex-column border-line border-radius-10px p-5 xl-p-10 box-shadow-extra-large">
-                                <p class="mb-20px fs-14 text-gray-3">"My car broke down on the Lekki-Epe Expressway around 10 PM. I was completely stranded. A friend mentioned RESQ, and I tried it out. Within 25 minutes, a towing van arrived. The driver was professional, and the whole process felt safe and efficient. RESQ saved my night!"</p>
+                                <p class="mb-20px fs-14 text-gray-3 ls-minus-4x lh-20 ">"My car broke down on the Lekki-Epe Expressway around 10 PM. I was completely stranded. A friend mentioned RESQ, and I tried it out. Within 25 minutes, a towing van arrived. The driver was professional, and the whole process felt safe and efficient. RESQ saved my night!"</p>
                                 <div class="mt-5px d-flex align-items-center">
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t3.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
-                                        <div class="text-white fw-500 fs-18">Banke. S</div>
+                                        <div class="text-gray-3 lh-1 fw-500 fs-12">Banke. S</div>
                                         <div class="lh-20 text-gray-2">Lekki, Lagos</div>
                                     </div>
                                 </div>
@@ -162,11 +162,11 @@
 
                         <div class="swiper-slide review-style-04 border-line"> 
                             <div class="d-flex justify-content-center h-100 flex-column border-line border-radius-10px p-5 xl-p-10 box-shadow-extra-large">
-                                <p class="mb-20px fs-14 text-gray-3">"My car broke down on the Lekki-Epe Expressway around 10 PM. I was completely stranded. A friend mentioned RESQ, and I tried it out. Within 25 minutes, a towing van arrived. The driver was professional, and the whole process felt safe and efficient. RESQ saved my night!"</p>
+                                <p class="mb-20px fs-14 text-gray-3 ls-minus-4x lh-20 ">"My car broke down on the Lekki-Epe Expressway around 10 PM. I was completely stranded. A friend mentioned RESQ, and I tried it out. Within 25 minutes, a towing van arrived. The driver was professional, and the whole process felt safe and efficient. RESQ saved my night!"</p>
                                 <div class="mt-5px d-flex align-items-center">
                                     <img class="rounded-circle w-40px h-40px me-20px" src="assets/img/t3.svg" alt="">
                                     <div class="d-inline-block align-middle"> 
-                                        <div class="text-white fw-500 fs-18">Banke. S</div>
+                                        <div class="text-gray-3 lh-1 fw-500 fs-12">Banke. S</div>
                                         <div class="lh-20 text-gray-2">Lekki, Lagos</div>
                                     </div>
                                 </div>
@@ -192,57 +192,38 @@
 <section class="bg-dark">
     <div class="container">
         <div class="row align-items-center align-items-xl-end justify-content-center mb-70px sm-mb-35px">                    
-            <div class="col-lg-4 col-md-10 md-mb-20px text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <span class="fs-20 lh-22 fw-300 mb-15px d-inline-block text-gray">Frequently Asked Questions</span>
-                <h2 class="text-white fs-36 fw-700 mb-0 ls-minus-1px">Get to know more about RESQ</h2>
+            <div class="col-lg-6 col-md-10 md-mb-20px text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <h5 class="text-gray-3 fw-700 mb-0 fs-36 ">Get to know more about RESQ</h5>
+
             </div>         
         </div>      
         <div class="col-lg-8 mx-auto text-center text-lg-start">
-                <div class="accordion accordion-style-02 w-90 lg-w-100"  id="accordion-style-02" data-active-icon="fa-chevron-up" data-inactive-icon="fa-chevron-down" style="">
-                    <!-- start accordion item -->
+                <div class="accordion accordion-style-02 w-90 lg-w-100"  id="accordion-style-02" data-active-icon="fa-chevron-up" data-inactive-icon="fa-chevron-down">
                     <div class="accordion-item">
                         <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                             <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02" class="collapsed">
                                 <div class="accordion-title mb-0 position-relative text-gray">
-                                    <i class="fa-solid fs-15 fa-chevron-down"></i><span class="fs-16 fw-500 ls-minus-05px">What is RESQ?</span>
+                                    <i class="fa-solid fs-15 fa-chevron-down"></i><span class="fs-16 fw-500 ls-minus-05px">What is Resq?</span>
                                 </div>
                             </a>
                         </div>
-                        <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02" style="">
+                        <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p class="text-gray-3">MTC provides a wide range of transportation solutions, including mobility services for individuals and corporate organizations, fleet management, onshore and offshore logistics for businesses. </p>
+                                <p class="text-gray-3">Resq is an on-demand towing service app that connects users with trusted tow truck operators when they need vehicle transportation, recovery, or breakdown assistance.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- end accordion item -->
-                    <!-- start accordion item -->
                     <div class="accordion-item">
                         <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                             <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02" class="collapsed">
                                 <div class="accordion-title mb-0 position-relative text-gray">
-                                    <i class="fa-solid fa-chevron-down fs-15"></i><span class="fs-16 fw-500 ls-minus-05px">How does RESQ work?</span>
+                                    <i class="fa-solid fa-chevron-down fs-15"></i><span class="fs-16 fw-500 ls-minus-05px">What services does Resq offer?</span>
                                 </div>
                             </a>
                         </div>
                         <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p class="text-gray-3">You can book our services by sending us a message directly, through our website or by dialing our customer service team for specialized transportation and logistics arrangements via road, water or air.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end accordion item -->
-                    <!-- start accordion item -->
-                    <div class="accordion-item">
-                        <div class="accordion-header border-bottom border-color-transparent">
-                            <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02" class="collapsed">
-                                <div class="accordion-title mb-0 position-relative text-gray">
-                                    <i class="fa-solid fa-chevron-down fs-15"></i><span class="fs-16 fw-500 ls-minus-05px">Where is RESQ available?</span>
-                                </div>
-                            </a>
-                        </div>
-                        <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                            <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                <p class="text-gray-3">Yes, we  offer delivery services for both individuals, residential and commercial.</p>
+                                <p class="text-gray-3">Resq exclusively offers towing services. Whether you've had a breakdown, an accident, or need scheduled transport, our app connects you to the nearest available tow truck operator.</p>
                             </div>
                         </div>
                     </div>
@@ -250,17 +231,40 @@
                         <div class="accordion-header border-bottom border-color-transparent">
                             <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02" class="collapsed">
                                 <div class="accordion-title mb-0 position-relative text-gray">
-                                    <i class="fa-solid fa-chevron-down fs-15"></i><span class="fs-16 fw-500 ls-minus-05px">How do I pay for towing?</span>
+                                    <i class="fa-solid fa-chevron-down fs-15"></i><span class="fs-16 fw-500 ls-minus-05px">What types of towing does Resq provide?</span>
                                 </div>
                             </a>
                         </div>
                         <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                <p class="text-gray-3">MTC operates across a wide geographic area, including urban and rural locations. Our mobility services are available in major cities, and our logistics network covers national and international routes. You can check our service area map on the website or contact us for specific inquiries about your location.</p>
+                                <p class="text-gray-3">We offer a variety of towing services to meet different needs:<br>
+                                • Emergency Breakdown Towing – For unexpected mechanical failures.<br>
+                                • Accident Recovery Towing – For vehicles involved in road accidents.<br>
+                                • Flatbed Towing – For luxury, low-clearance, or immobile vehicles.<br>
+                                • Wheel-Lift Towing – Ideal for short-distance, quick tows.<br>
+                                • Long-Distance Towing – For transporting vehicles across cities or states.<br>
+                                • Motorcycle Towing – Safe towing for bikes using secure mounts.<br>
+                                • Abandoned Vehicle Towing – Removal of unauthorized or unwanted vehicles.<br>
+                                • Low Clearance Towing – For underground or tight parking spaces.<br>
+                                • Vehicle Transport – Scheduled, non-emergency towing or delivery.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- end accordion item -->
+                    <div class="accordion-item">
+                        <div class="accordion-header border-bottom border-color-transparent">
+                            <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-04" aria-expanded="false" data-bs-parent="#accordion-style-02" class="collapsed">
+                                <div class="accordion-title mb-0 position-relative text-gray">
+                                    <i class="fa-solid fa-chevron-down fs-15"></i><span class="fs-16 fw-500 ls-minus-05px">How does Resq work?</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div id="accordion-style-02-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                            <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
+                                <p class="text-gray-3">Open the Resq app, choose the towing service you need, and confirm your location. We'll connect you with the nearest available tow operator, and you can track their arrival in real time.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
         </div> 
       </div>

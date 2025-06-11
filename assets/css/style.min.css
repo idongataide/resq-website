@@ -905,6 +905,9 @@ strong {
 .ls-minus-4px {
   letter-spacing: -4px !important;
 }
+.ls-minus-4x {
+  letter-spacing: -4% !important;
+}
 .ls-minus-5px {
   letter-spacing: -5px !important;
 }

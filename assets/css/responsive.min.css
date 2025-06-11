@@ -20473,7 +20473,7 @@
   }
   .left-sidebar-header.header-dark .navbar-toggler-line,
   .navbar-collapse {
-    background: var(--white);
+    background: var(--dark-gray);
   }
   .navbar-full-screen-menu-inner.header-dark
     .navbar-nav
