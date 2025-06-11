@@ -20169,6 +20169,11 @@
     .sub-title {
     margin-top: 0;
   }
+
+  .bg-test{
+    background: linear-gradient(rgb(16 16 21 / 0%), rgb(16 16 21 / 0%)), url(../img/bg-map.png) center / cover no-repeat
+  }
+
   .navbar .navbar-nav .dropdown .dropdown-menu li,
   .navbar-full-screen-menu-inner .navbar-nav .dropdown .dropdown-menu li,
   .navbar-modern-inner .navbar-nav .dropdown .dropdown-menu li {

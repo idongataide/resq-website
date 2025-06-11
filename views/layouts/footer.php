@@ -37,13 +37,13 @@
                         <div class="col-lg-3 col-md-12 col-sm-4 xs-mb-30px">
                             <span class="fs-16 fw-500 d-block text-gray-2 mb-5px">Resources</span>
                             <ul>
-                                <li class="text-gray-3 fw-500">FAQs</li>
+                              <a href="faqs"> <li class="text-gray-3 fw-500">FAQs</li></a>
                             </ul>
                             <ul>
-                                <li class="text-gray-3 fw-500">Privacy Policy</li>
+                              <a href="privacy"> <li class="text-gray-3 fw-500">Privacy Policy</li></a>
                             </ul>
                             <ul>
-                                <li class="text-gray-3 fw-500">Terms of Service</li>
+                              <a href="terms"> <li class="text-gray-3 fw-500">Terms of Service</li></a>
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-4 xs-mb-30px">

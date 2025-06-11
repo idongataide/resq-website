@@ -184,7 +184,7 @@
         </div>
         <div class="row mb-10">
             <div class="col-12 text-center" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                <div class="fs-16 text-white">Had an awesome experience? <span class="text-primary">Share with us</span></div>
+                    <div class="fs-16 text-white">Had an awesome experience? <span class="text-primary">Share with us</span></div>
             </div>
         </div>
         <div class="location ripple position-absolute"></div>
@@ -275,7 +275,9 @@
       </div>
       <div class="row mt-2">
             <div class="col-12 text-center" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                <div class="fs-16 text-white">Need to learn more? <span class="text-primary">Click here</span></div>
+                <a href="faqs">
+                    <div class="fs-16 text-white">Need to learn more? <span class="text-primary">Click here</span></div>
+                </a> 
             </div>
         </div>     
     </div>
