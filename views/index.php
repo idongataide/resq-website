@@ -7,7 +7,7 @@
                 <div class="d-flex align-items-center justify-content-center flex-wrap mt-40px xs-mt-30px">
                     <a href="#"   class="btn btn-medium btn-primary btn-rounded d-inline-block me-30px xs-me-10px btn-box-shadow btn-switch-text sm-mt-6px sm-mb-10px section-link">
                         <span>
-                            <span class="btn-double-text" data-text="Contact us">Request A Tow</span>
+                            <span class="btn-double-text" data-text="Request A Tow">Request A Tow</span>
                         </span>
                     </a>                 
                 </div>
@@ -41,8 +41,11 @@
         </div>      
         <div class="col-lg-12 mx-auto text-center text-lg-start">
             <div class="row">
-                <div class="col-lg-6 mb-2">
-                    <div class="bg-gray-2 p-10 d-flex align-items-center justify-content-center">
+                <div class="col-lg-6 mb-2">                   
+                    <div class="bg-gray-2 p-10 d-flex align-items-center justify-content-center  overflow-hidden position-relative">
+                        <div class="position-absolute leftB-abs">
+                                <img src="assets/img/rays3.svg" class="w-85" alt="">
+                        </div>
                         <div class="offset-lg-3 ">
                             <h3 class="fw-500 fs-24 text-gray-3 mb-2">Real-Time <br/> Vehicle Tracking</h3>
                             <p class="text-gray mb-0">Follow your rescue vehicle as it </br> approaches, down to the minute.</p>
@@ -106,9 +109,9 @@
 <section id="reviews" class="bg-dark- borde-top bg-test" >
     <div class="container">
         <div class="row text-center mb-3">
-            <div class="col-lg-6 col-md-10 md-mb-20px mx-auto text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+            <div class="col-lg-3 col-md-10 md-mb-20px mx-auto text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="fs-20 lh-22 fw-300 mb-15px d-inline-block text-gray">Our Testimonials</span>
-                <h2 class="text-white fw-700 mb-0 ls-minus-1px">People who trust us to rescue</h2>
+                <h2 class="text-white fs-36 fw-700 mb-0 ls-minus-1px">People who trust us to rescue</h2>
             </div>  
         </div>
         <div class="row align-items-center mb-40px md-mb-25px">
@@ -189,9 +192,9 @@
 <section class="bg-dark">
     <div class="container">
         <div class="row align-items-center align-items-xl-end justify-content-center mb-70px sm-mb-35px">                    
-            <div class="col-lg-6 col-md-10 md-mb-20px text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+            <div class="col-lg-4 col-md-10 md-mb-20px text-lg-center text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="fs-20 lh-22 fw-300 mb-15px d-inline-block text-gray">Frequently Asked Questions</span>
-                <h2 class="text-white fw-700 mb-0 ls-minus-1px">Get to know more about RESQ</h2>
+                <h2 class="text-white fs-36 fw-700 mb-0 ls-minus-1px">Get to know more about RESQ</h2>
             </div>         
         </div>      
         <div class="col-lg-8 mx-auto text-center text-lg-start">

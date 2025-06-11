@@ -46,7 +46,7 @@
                                     <li class="nav-item"><a href="home" class="nav-link">Home</a></li>
                                     <li class="nav-item"><a href="faqs" class="nav-link">FAQs</a></li>                           
                                     <li class="nav-item dropdown dropdown-with-icon-style02">
-                                    <a href="demo-accounting-services.html" class="nav-link">Resources</a>
+                                    <a href="#" class="nav-link">Resources</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
                                         <li><a href="privacy">Privacy Policy</a></li>

@@ -195,6 +195,11 @@ blockquote, figure {
   bottom: -100px;
   right: -100px;
 }
+.leftB-abs{
+  position: absolute;
+  bottom: -100px;
+  left: -100px;
+}
 .left-abs{
   position: absolute;
   left: -100px;
@@ -773,6 +778,7 @@ strong {
 .btn.btn-primary:hover {
     background-color: var(--dark-gray);
     color: var(--white-ice);
+    border: 1px solid #fff;
     
 }
 
@@ -7593,7 +7599,7 @@ header.sticky .navbar.disable-fixed {
   padding: 60px 0 65px;
   border: 0;
   top: 100%;
-  background-color: var(--white);
+  background-color: var(--dark-gray);
   box-shadow: 0 45px 45px 0 rgba(0, 0, 0, 0.05);
   -webkit-animation: hide-animation 0.5s;
   animation: hide-animation 0.5s;
@@ -7613,7 +7619,7 @@ header.sticky .navbar.disable-fixed {
   /* border-bottom: 1px solid var(--base-color); */
 }
 .navbar .navbar-nav .dropdown .dropdown-menu a {
-  color: var(--medium-gray);
+  color: #cecece;
   font-size: 15px;
   line-height: 24px;
   font-weight: 400;
