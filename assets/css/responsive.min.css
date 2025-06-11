@@ -14691,6 +14691,12 @@
   .sm-mb-50px {
     margin-bottom: 50px !important;
   }
+
+  .leftB-abs {
+    position: absolute;
+    bottom: -120px;
+    left: -170px;
+  }
   .sm-mb-55px {
     margin-bottom: 55px !important;
   }
