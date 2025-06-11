@@ -21200,6 +21200,9 @@
   .page-title-big-typography h1{
     margin-top: 100px !important;
   }
+  .page-title-big-typography p{
+    margin-bottom: 100px;
+  }
   .grid.sm-grid-6col li {
     width: 16.67%;
   }
