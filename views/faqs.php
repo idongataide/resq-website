@@ -85,7 +85,7 @@
                         </div>
                         <div id="accordion-style-02-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                <p class="text-gray-3">Open the Resq app, choose the towing service you need, and confirm your location. We'll connect you with the nearest available tow operator, and you can track their arrival in real time.</p>
+                                <p class="text-gray-3">Open the Resq app, confirm your location and provide details about your request</p>
                             </div>
                         </div>
                     </div>
