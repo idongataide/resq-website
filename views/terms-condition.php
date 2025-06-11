@@ -25,7 +25,7 @@
 <section class="position-relative pt-3 pb-0 bg-dark" >
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">1. Eligibility</span>
             </div>
             <div class="col-lg-9">
@@ -38,7 +38,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">2. Description of Services</span>
             </div>
             <div class="col-lg-9">
@@ -51,7 +51,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">3. User Account</span>
             </div>
             <div class="col-lg-9">
@@ -64,7 +64,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">4. Services Request and Fulfillment</span>
             </div>
             <div class="col-lg-9">
@@ -83,7 +83,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">5. Payment and Fees</span>
             </div>
             <div class="col-lg-9">
@@ -96,7 +96,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">6. Cancellations and Refunds</span>
             </div>
             <div class="col-lg-9">
@@ -109,7 +109,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">7. Prohibited Conduct</span>
             </div>
             <div class="col-lg-9">
@@ -130,7 +130,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">8. Third-Party Service Providers</span>
             </div>
             <div class="col-lg-9">
@@ -143,7 +143,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">9. Limitation of Liability</span>
             </div>
             <div class="col-lg-9">
@@ -156,7 +156,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">10. Intellectual Property</span>
             </div>
             <div class="col-lg-9">
@@ -169,7 +169,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">11. Termination</span>
             </div>
             <div class="col-lg-9">
@@ -182,7 +182,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">12. Updates to The Terms</span>
             </div>
             <div class="col-lg-9">
@@ -195,7 +195,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">13. Governing Law</span>
             </div>
             <div class="col-lg-9">
@@ -208,7 +208,7 @@
 <section class="half-section pt-50px pb-50px position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">14. Contact Us</span>
             </div>
             <div class="col-lg-9">

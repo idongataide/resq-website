@@ -2,6 +2,9 @@
 
 class ServerController
 {
+    public $requestMethod;
+    public $requestPage;
+
     public function __construct($method, $additionalPath, $endpoint, $API)
     {
         if ($API) {

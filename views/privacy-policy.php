@@ -25,7 +25,7 @@
 <section class="position-relative pt-3 pb-4 bg-dark" >
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">1. Information we Collect</span>
             </div>
             <div class="col-lg-7">
@@ -48,7 +48,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">2. How we use your Information</span>
             </div>
             <div class="col-lg-7">
@@ -69,7 +69,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">3. Sharing and Disclosure</span>
             </div>
             <div class="col-lg-7">
@@ -93,7 +93,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">4. Data Retention</span>
             </div>
             <div class="col-lg-7">
@@ -112,7 +112,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">5. Data Security</span>
             </div>
             <div class="col-lg-7">
@@ -125,7 +125,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">6. Your Rights</span>
             </div>
             <div class="col-lg-7">
@@ -146,7 +146,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">7. Cookies and Tracking Technologies</span>
             </div>
             <div class="col-lg-7">
@@ -165,7 +165,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">8. Children's Privacy</span>
             </div>
             <div class="col-lg-7">
@@ -178,7 +178,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">9. Intentional Users</span>
             </div>
             <div class="col-lg-7">
@@ -191,7 +191,7 @@
 <section class="half-section pt-50px pb-0 position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">10. Changes to This Policy</span>
             </div>
             <div class="col-lg-7">
@@ -204,7 +204,7 @@
 <section class="half-section pt-50px pb-50px position-relative overlap-height-bottom bg-dark">
     <div class="container">
         <div class="row align-items-start justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 text-center text-lg-start md-mb-20px">
+            <div class="col-lg-3 text-lg-start md-mb-20px">
                 <span class="text-off fw-400 fs-16 ">11. Contact Us</span>
             </div>
             <div class="col-lg-7">
