@@ -39,8 +39,8 @@
                 <p class="text-white lh-40 fs-36 fw-700 mb-0">Professional-grade towing and recovery services — fast, safe, and reliable </p>
             </div>         
         </div>      
-        <div class="col-lg-12 mx-auto text-center text-lg-start">
-            <div class="row">
+        <div class="col-lg-12 mx-auto text-center text-lg-start" >
+            <div class="row" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 2000, "delay": 0, "staggervalue": 400, "easing": "easeOutQuad" }'>
                 <div class="col-lg-6 mb-2">                   
                     <div class="bg-gray-2 p-10 d-flex align-items-center justify-content-center  overflow-hidden position-relative">
                         <div class="position-absolute leftB-abs">
