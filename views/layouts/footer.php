@@ -49,7 +49,7 @@
                         <div class="col-lg-3 col-md-12 col-sm-4 xs-mb-30px">
                             <span class="fs-18 fw-500 d-block text-gray-2 mb-5px">Call us</span>                           
                             <ul>
-                                <li class="text-gray-3 fw-500">support@resqapp.com</li>
+                                <li class="text-gray-3 fw-500">support@resque.ng</li>
                             </ul>
                             <ul>
                                 <li class="text-gray-3 fw-500">+1 500 500 428</li>
